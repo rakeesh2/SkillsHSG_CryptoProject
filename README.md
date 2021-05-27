@@ -6,13 +6,13 @@ The aim of the project is that the user input several cryptocurrency of his inte
 
 Before running the code, following installations of packages should be run as they are required:
 
-pip install numpy
-pip install pandas
-pip install scipy
-pip install matplotlib
-pip install yahoo_fin
-pip install datetime
-pip install import-ipynb
+pip install numpy\
+pip install pandas\
+pip install scipy\
+pip install matplotlib\
+pip install yahoo_fin\
+pip install datetime\
+pip install import-ipynb\
 
 
 Use the following link to a list of crypto assets of [Yahoo Finance](https://finance.yahoo.com/cryptocurrencies/) to select the crypto assets of interest. Use the input line in the code to enter the tickers as strings. Always use the the ticker with the suffix "-USD". In details the code does:
