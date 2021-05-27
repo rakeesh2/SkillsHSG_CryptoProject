@@ -22,7 +22,7 @@ Use the following link to a list of crypto assets of [Yahoo Finance](https://fin
   - Calculate historical performance and plot it
   - Calculate mean return and volatility for period of analysis
   - Calculate the risk metrics Value-at-risk and maximum drawdown\
-The invested capital is set to 100 by default, but that can be adjusted by the user. The variable "invested_capital" can be changed accordingly.
+The invested capital is set to 100 by default (= hypothetical Index Performance), but that can be adjusted by the user. The variable "invested_capital" can be changed accordingly.
 
 3. Give summarizing output with all performance metrics, plot with all strategies and the weights of each strategy, where the user could then choose the right strategy and implement the weights of the output.
 
