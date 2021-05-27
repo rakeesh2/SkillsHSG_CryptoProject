@@ -2,7 +2,7 @@
 Cryptocurrency Portfolio Construction and Performance Analysis\
 Project of: Rakeesh Karunakaran & Venjamin Koscica
 
-The aim of the project is that the user input several cryptocurrency of his interest and the code then provides historical performance and optimal weights for this set of crypto assets. The methods used for the performance analysis are equally-weighted portfolio, equal risk contribution and the mean-variance approach.
+The aim of the project is that the user inputs several cryptocurrencies of his/ her interest and the code then provides historical performance numbers, risk metrics and optimal weights for this set of crypto assets. The methods used for the performance analysis are equally-weighted portfolio, equal risk contribution and the mean variance approach.
 
 Before running the code, following installations of packages should be run as they are required:
 
@@ -15,7 +15,7 @@ pip install datetime\
 pip install import-ipynb
 
 
-Use the following link to a list of crypto assets of [Yahoo Finance](https://finance.yahoo.com/cryptocurrencies/) to select the crypto assets of interest. Use the input line in the code to enter the tickers as strings. Always use the the ticker with the suffix "-USD". In details the code does:
+Use the following link to a list of crypto assets of [Yahoo Finance](https://finance.yahoo.com/cryptocurrencies/) to select the crypto assets of interest. Use the input line in the code to enter the tickers as strings. Always use the the ticker with the suffix "-USD", e.g. "BTC-USD". In details the code does:
 
 1. Get price data from defined starting date up to today
 2. For each of the three strategies:
