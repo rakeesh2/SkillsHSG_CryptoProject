@@ -21,7 +21,7 @@ Use the following link to a list of crypto assets of [Yahoo Finance](https://fin
 2. For each of the three strategies:
   - Calculate historical performance and plot it
   - Calculate mean return and volatility for period of analysis
-  - Calculate risk metrics such as Value-at-risk and maximum drawdown
+  - Calculate the risk metrics Value-at-risk and maximum drawdown
 
 3. Give summarizing output with all performance metrics, plot with all strategies and the weights of each strategy, where the user could then choose the right strategy and implement the weights of the output.
 
