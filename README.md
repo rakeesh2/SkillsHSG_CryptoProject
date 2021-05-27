@@ -12,7 +12,7 @@ pip install scipy\
 pip install matplotlib\
 pip install yahoo_fin\
 pip install datetime\
-pip install import-ipynb\
+pip install import-ipynb
 
 
 Use the following link to a list of crypto assets of [Yahoo Finance](https://finance.yahoo.com/cryptocurrencies/) to select the crypto assets of interest. Use the input line in the code to enter the tickers as strings. Always use the the ticker with the suffix "-USD". In details the code does:
